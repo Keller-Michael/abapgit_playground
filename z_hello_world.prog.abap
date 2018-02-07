@@ -6,3 +6,5 @@
 REPORT z_hello_world.
 
 WRITE 'Hello world.'.
+NEW-LINE.
+WRITE 'abapGit is great.'.
